@@ -32,7 +32,7 @@ export class RecipeService {
 			new Ingredient('Masala(teaspoon)',1),
 			new Ingredient('Yogurt(cup)',1),
 			new Ingredient('Green Chillies',3)
-		]);
+		])
 	];
 
 

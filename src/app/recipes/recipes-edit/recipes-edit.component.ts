@@ -97,5 +97,7 @@ onAddIngredient(){
       })
     );
 }
+
+get formData() { return <FormArray>this.recipeForm.get('Data'); }
   
 }

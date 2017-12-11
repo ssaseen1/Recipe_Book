@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+   
+   background-image: url("https://cdn.pixabay.com/photo/2017/10/22/20/42/table-2879213_960_720.jpg");
+	
+	background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+     background-color: olivedrab;
+}

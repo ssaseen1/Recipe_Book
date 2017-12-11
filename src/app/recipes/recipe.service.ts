@@ -22,7 +22,7 @@ export class RecipeService {
 			new Ingredient('All-purpose flour(cup)',1),
 			new Ingredient('Baking Soda(teaspoon)',1),
 			new Ingredient('Salt(teaspoon)',1)		
-		]);
+		]),
 
 		new Recipe('CHICKEN BIRYANI', 'Every grain of rice colourful and flavourful, a bite of chicken with every spoonful, the crunch of fried almonds interspersed with spicy and minty freshness. This dum biryani recipe is a fail proof biryani recipe and is so easy and so full of flavours that you would want to make it every weekend. So why delay; I am making it again, and you should too.', 'https://i0.wp.com/files.hungryforever.com/wp-content/uploads/2017/06/09121657/chicken-fry-biryani-recipes.jpg?w=1269&strip=all&quality=80',[
 			new Ingredient('Rice(cup)',2),
@@ -32,7 +32,7 @@ export class RecipeService {
 			new Ingredient('Masala(teaspoon)',1),
 			new Ingredient('Yogurt(cup)',1),
 			new Ingredient('Green Chillies',3)
-		]),
+		]);
 	];
 
 
